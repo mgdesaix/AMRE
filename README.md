@@ -1,2 +1,2 @@
 # AMRE
-collection of scripts of LCWG data for Setophaga ruticilla
+collection of scripts for LCWG data of Setophaga ruticilla samples
